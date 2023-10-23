@@ -24,7 +24,7 @@
             "containers":[
                {
                   "name":"blue",
-                  "image":"andresaaap/testblueimage",
+                  "image":"roshini777/capstone1.0",
                   "ports":[
                      {
                         "name":"http-server",
